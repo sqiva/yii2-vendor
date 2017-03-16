@@ -4,9 +4,6 @@
     "type": "yii2-extension",
     "license": "proprietary",
     "minimum-stability": "stable",
-    "config": {
-        "vendor-dir": "plugins"
-    },
     "require": {
         "composer-plugin-api": "^1.0",
         "yiisoft/yii2": "^2.0.11.2",
@@ -18,11 +15,5 @@
         "phpoffice/phpexcel": "^1.8",
         "components/normalize.css": "^3.0",
         "fxp/composer-asset-plugin": "^1.2"
-    },
-    "extra": {
-        "asset-installer-paths": {
-            "npm-asset-library": "vendor/npm",
-            "bower-asset-library": "vendor/bower"
-        }
     }
 }
