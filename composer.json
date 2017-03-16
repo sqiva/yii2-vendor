@@ -1,7 +1,7 @@
 {
     "name": "sqiva/yii2-vendor",
     "description": "Global vendor for sqiva project with yii2",
-    "type": "composer-plugin",
+    "type": "yii2-extension",
     "license": "proprietary",
     "minimum-stability": "stable",
     "require": {
@@ -15,7 +15,4 @@
         "phpoffice/phpexcel": "^1.8",
         "components/normalize.css": "^3.0"
     },
-    "extra": {
-        "class": "sqiva\\yii2-vendor"
-    }
 }
