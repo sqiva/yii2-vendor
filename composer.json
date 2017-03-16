@@ -14,5 +14,5 @@
         "eonasdan/bootstrap-datetimepicker": "^4.17",
         "phpoffice/phpexcel": "^1.8",
         "components/normalize.css": "^3.0"
-    },
+    }
 }
