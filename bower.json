@@ -1,0 +1,8 @@
+{
+  "name": "sqiva",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-table": "wenzhixin/bootstrap-table#^1.11.1",
+    "bootstrap-select": "^1.12.2"
+  }
+}
