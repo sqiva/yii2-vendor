@@ -17,5 +17,11 @@
         "eonasdan/bootstrap-datetimepicker": "^4.17",
         "phpoffice/phpexcel": "^1.8",
         "components/normalize.css": "^3.0"
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
     }
 }
