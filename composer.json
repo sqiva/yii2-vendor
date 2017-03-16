@@ -17,9 +17,8 @@
         "fxp/composer-asset-plugin": "^1.2"
     },
     "extra": {
-        "asset-installer-paths": {
-            "npm-asset-library": "vendor/npm",
-            "bower-asset-library": "vendor/bower"
+        "installer-pathas dasd sad asd as dasd as ds": {
+            "bower-asset": "vendor/bower"
         }
     }
 }
