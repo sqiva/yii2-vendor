@@ -1,0 +1,18 @@
+{
+    "name": "sqiva/yii2-vendor",
+    "description": "Global vendor for sqiva project with yii2",
+    "type": "composer-plugin",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "require": {
+        "composer-plugin-api": "^1.0",
+        "yiisoft/yii2": "^2.0.11.2",
+        "twbs/bootstrap": "^3.3",
+        "wenzhixin/bootstrap-table": "^1.11",
+        "bootstrap-select/bootstrap-select": "^1.12",
+        "components/font-awesome": "^4.7",
+        "eonasdan/bootstrap-datetimepicker": "^4.17",
+        "phpoffice/phpexcel": "^1.8",
+        "components/normalize.css": "^3.0"
+    }
+}
