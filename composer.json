@@ -16,6 +16,11 @@
            "bower install"
        ]
    },
+   "autoload": {
+       "psr-4": {
+           "sqiva\\yii2-vendor\\": ""
+       }
+   },
     "extra": {
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
