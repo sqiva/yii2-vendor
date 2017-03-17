@@ -6,6 +6,8 @@ class SqivaAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/bower';
 	public $css = [
+        'components-font-awesome/css/font-awesome.min.css',
+        'sqiva/dist/fonts/open-sans/opensans.css',
         'bootstrap/dist/css/bootstrap.min.css',
         'bootstrap-table/dist/bootstrap-table.min.css',
         'sqiva/dist/css/freestyle.css'

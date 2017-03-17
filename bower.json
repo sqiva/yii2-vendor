@@ -3,6 +3,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "bootstrap-table": "wenzhixin/bootstrap-table#^1.11.1",
-    "bootstrap-select": "^1.12.2"
+    "bootstrap-select": "^1.12.2",
+    "sqiva": "sqiva/yii2-vendor",
+    "components-font-awesome": "components/font-awesome#^4.7.0"
   }
 }
