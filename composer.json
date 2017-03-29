@@ -3,7 +3,8 @@
     "description": "Global vendor for sqiva project with yii2",
     "type": "yii2-extension",
     "license": "proprietary",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "yiisoft/yii2": "^2.0.11.2",
         "fxp/composer-asset-plugin": "^1.2"
